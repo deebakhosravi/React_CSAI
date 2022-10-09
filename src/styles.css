@@ -1,0 +1,16 @@
+.App {
+  font-family: Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+.AppDiv {
+  background-color: rgb(238, 151, 238);
+  padding: 3px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.WithBorder {
+  border: 1px dashed purple;
+  margin: 3px;
+}
